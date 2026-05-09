@@ -13,3 +13,4 @@
     .\iniciar
 
 #Diagrama de clases:
+    DiagramaTaller1Ed.jpg
