@@ -8,11 +8,8 @@ public:
     List();
     Node* getStart();
 
-    void insert(Cancion* value, int indice);
     void insertFirst(Cancion* value);
     void insertLast(Cancion* value);
-
-    int get(int indice);
     Node* getFirst();
     Node* getLast();
 
